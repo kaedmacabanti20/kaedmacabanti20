@@ -59,24 +59,50 @@ const kaedm = {
 <tr>
 <td width="50%" align="center">
 
-### 🛡️ **[Quirk Rewards](https://apps.apple.com/us/app/quirk-rewards/id6748406516)**
+### **[Quirk Rewards](https://apps.apple.com/us/app/quirk-rewards/id6748406516)**
 *Loyalty app for Food and Beverage (F&B) businesses, served as lead mobile app and backend developer*
 
 **Tech Stack:** Flutter • NestJS • Firebase • MongoDB • Play Console • Appstore Connect
 
-[![Beta](https://img.shields.io/badge/🔒_Private_Beta-ffc107?style=flat-square)](https://Bouncer-app.com)
+[![Live](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://reaganhsu.com)
 
 <br>
 
 </td>
 <td width="50%" align="center">
 
-### 🚀 **[Personal Portfolio](https://reaganhsu.com)**
-*My personal website for both recruiters and anybody who wants to get to know me!*
+### **[Tsupitero](https://tsupitero.com/)**
+*Stock market survey platform for traders to gather insights on current market sentiment*
 
-**Tech Stack:** React • TypeScript • WebGL • CSS3 • Vite • Vercel 
+**Tech Stack:** Vue.js • NestJS • Tailwind • PostgreSQL • Firebase
 
-[![Live](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://reaganhsu.com)
+[![Live](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://tsupitero.com/)
+
+<br>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### **[University of the Assumption AI](https://github.com/kaedmacabanti20/university-of-the-assumption-ai)**
+*Large Language Model of OpenAI trained with information regarding the University of the Assumption to answer common inquiries*
+
+**Tech Stack:** Vue.js • ExpressJS • Tailwind • Vercel  
+
+[![Github](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://github.com/kaedmacabanti20/university-of-the-assumption-ai)
+
+<br>
+
+</td>
+<td width="50%" align="center">
+ 
+### **[Firebase Launchkit](https://github.com/kaedmacabanti20/firebase-launchkit)**
+*Firebase starter project for Flutter, Vue, and React. Developed in Fulcrum (startup), for faster web and mobile app development.*
+
+**Tech Stack:** Vue.js • NestJS • Tailwind • PostgreSQL  
+
+[![Github](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://github.com/kaedmacabanti20/firebase-launchkit)
 
 <br>
 
