@@ -4,7 +4,7 @@
 
 > [!IMPORTANT]
 > 
-> **Hey, I'm Kyle!**
+> **Hey, I'm Ash!**
 > 
 > I'm a developer passionate about building scalable applications across web and mobile.  
 I work with **modern frameworks, cloud platforms, and end-to-end integrations** to create impactful digital experiences.  
