@@ -34,11 +34,11 @@ const kaedm = {
 <td width="50%" align="center">
 
 ### 🎓 **[ThankMyTeacher](https://ThankMyTeacher.net)**
-*A platform connecting students with their educators*
+*Official Department of Energy (DOE) system for energy practitioners. Worked as fullstack under Barkero Developers through project completion*
 
-**Tech Stack:** React Native • Supabase • Expo • Vercel • Render • Resend
+**Tech Stack:** Vue.js • NestJS • Tailwind • PostgreSQL  
 
-[![Live](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://ThankMyTeacher.net)
+[![Live](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://epar.doe.gov.ph/)
 
 <br>
 
@@ -46,9 +46,9 @@ const kaedm = {
 <td width="50%" align="center">
 
 ### 💊 **[PillSnap](https://pillsnap.tech)**
-*AI-powered medication identification and interaction analysis using computer vision*
+*Official Department of Energy (DOE) system for disaster management. Worked as fullstack under Barkero Developers through project completion*
 
-**Tech Stack:** Google Gemini • Python • Flask • Expo • Vercel
+**Tech Stack:** Vue.js • NestJS • Tailwind • PostgreSQL  
 
 [![Live](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://pillsnap.tech)
 
