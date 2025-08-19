@@ -33,7 +33,7 @@ const kaedm = {
 <tr>
 <td width="50%" align="center">
 
-### 🎓 **[ThankMyTeacher](https://ThankMyTeacher.net)**
+### **[Energy Efficiency Portal for Applications and Registrations (EPAR)](https://epar.doe.gov.ph/)**
 *Official Department of Energy (DOE) system for energy practitioners. Worked as fullstack under Barkero Developers through project completion*
 
 **Tech Stack:** Vue.js • NestJS • Tailwind • PostgreSQL  
@@ -45,7 +45,7 @@ const kaedm = {
 </td>
 <td width="50%" align="center">
 
-### 💊 **[PillSnap](https://pillsnap.tech)**
+### **[Energy Disaster Information Management System (EDIMS)](https://edims.doe.gov.ph/)**
 *Official Department of Energy (DOE) system for disaster management. Worked as fullstack under Barkero Developers through project completion*
 
 **Tech Stack:** Vue.js • NestJS • Tailwind • PostgreSQL  
@@ -59,10 +59,10 @@ const kaedm = {
 <tr>
 <td width="50%" align="center">
 
-### 🛡️ **[Bouncer](https://Bouncer-app.com)**
-*Comprehensive risk assessment for databases using publicly available information*
+### 🛡️ **[Quirk Rewards](https://apps.apple.com/us/app/quirk-rewards/id6748406516)**
+*Loyalty app for Food and Beverage (F&B) businesses, served as lead mobile app and backend developer*
 
-**Tech Stack:** React Native • Supabase • Claude API • Expo • Vercel
+**Tech Stack:** Flutter • NestJS • Firebase • MongoDB • Play Console • Appstore Connect
 
 [![Beta](https://img.shields.io/badge/🔒_Private_Beta-ffc107?style=flat-square)](https://Bouncer-app.com)
 
