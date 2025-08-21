@@ -34,7 +34,7 @@ const kaedm = {
 <td width="50%" align="center">
 
 ### **[Energy Efficiency Portal for Applications and Registrations (EPAR)](https://epar.doe.gov.ph/)**
-*Official Department of Energy (DOE) system for energy practitioners. Worked as fullstack under Barkero Developers through project completion*
+*Official Department of Energy (DOE) system for energy practitioners. Worked as fullstack developer under Barkero Developers (Complete).*
 
 **Tech Stack:** Vue.js • NestJS • Tailwind • PostgreSQL  
 
@@ -45,12 +45,12 @@ const kaedm = {
 </td>
 <td width="50%" align="center">
 
-### **[Energy Disaster Information Management System (EDIMS)](https://edims.doe.gov.ph/)**
-*Official Department of Energy (DOE) system for disaster management. Worked as fullstack under Barkero Developers through project completion*
+### **[Energy Disaster Information Management System (EDIMS)](https://legacy.doe.gov.ph/procurement/procurement-development-energy-disaster-information-management-system-edims)**
+*Official Department of Energy (DOE) system for disaster management. Worked as fullstack developer under Barkero Developers (Ongoing).*
 
 **Tech Stack:** Vue.js • NestJS • Tailwind • PostgreSQL  
 
-[![Live](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://edims.doe.gov.ph/)
+[![Ongoing](https://img.shields.io/badge/🚧_Ongoing-ff9800?style=flat-square)](https://legacy.doe.gov.ph/procurement/procurement-development-energy-disaster-information-management-system-edims)
 
 <br>
 
