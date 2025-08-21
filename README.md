@@ -65,8 +65,7 @@ const kaedm = {
 **Tech Stack:** Flutter • NestJS • Firebase • MongoDB • Play Console • Appstore Connect
 
 [![App Store](https://img.shields.io/badge/📱_App%20Store-0D96F6?style=flat-square)](https://apps.apple.com/us/app/quirk-rewards/id6748406516)
-[![Google Play](https://img.shields.io/badge/🤖_Google%20Play-3DDC84?style=flat-square)](https://play.google.com/store/apps/details?id=com.quirk_rewards.quirk_android_app)
-id=com.quirk_rewards.quirk_android_app&fbclid=IwY2xjawMCjFtleHRuA2FlbQIxMABicmlkETFyM2xHeGN1WGJIZHVrQWx5AR5uEzhWdgl_KdwpDOMPsjPnapyhcO3VGAzp3-7BlUB8KozTPORNCL8-7oFJ9w_aem_aK7CDYN-CFHLM32JStYxWw)
+[![Google Play](https://img.shields.io/badge/🤖_Google%20Play-3DDC84?style=flat-square)](https://play.google.com/store/apps/details?id=com.quirk_rewards.quirk_android_app) 
 
 <br>
 
