@@ -64,8 +64,9 @@ const kaedm = {
 
 **Tech Stack:** Flutter • NestJS • Firebase • MongoDB • Play Console • Appstore Connect
 
-[![Live](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://apps.apple.com/us/app/quirk-rewards/id6748406516)
-[![Live](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://play.google.com/store/apps/details?id=com.quirk_rewards.quirk_android_app&fbclid=IwY2xjawMCjFtleHRuA2FlbQIxMABicmlkETFyM2xHeGN1WGJIZHVrQWx5AR5uEzhWdgl_KdwpDOMPsjPnapyhcO3VGAzp3-7BlUB8KozTPORNCL8-7oFJ9w_aem_aK7CDYN-CFHLM32JStYxWw)
+[![App Store](https://img.shields.io/badge/📱_App%20Store-0D96F6?style=flat-square)](https://apps.apple.com/us/app/quirk-rewards/id6748406516)
+[![Google Play](https://img.shields.io/badge/🤖_Google%20Play-3DDC84?style=flat-square)](https://play.google.com/store/apps/details?id=YOUR_APP_ID)
+id=com.quirk_rewards.quirk_android_app&fbclid=IwY2xjawMCjFtleHRuA2FlbQIxMABicmlkETFyM2xHeGN1WGJIZHVrQWx5AR5uEzhWdgl_KdwpDOMPsjPnapyhcO3VGAzp3-7BlUB8KozTPORNCL8-7oFJ9w_aem_aK7CDYN-CFHLM32JStYxWw)
 
 <br>
 
@@ -91,7 +92,7 @@ const kaedm = {
 
 **Tech Stack:** Vue.js • ExpressJS • Tailwind • Vercel  
 
-[![Live](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://github.com/kaedmacabanti20/university-of-the-assumption-ai)
+[![Complete](https://img.shields.io/badge/✅_Complete-28a745?style=flat-square)](https://github.com/kaedmacabanti20/university-of-the-assumption-ai)
 
 <br>
 
@@ -103,7 +104,7 @@ const kaedm = {
 
 **Tech Stack:** Vue.js • NestJS • Tailwind • PostgreSQL  
 
-[![Live](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://github.com/kaedmacabanti20/firebase-launchkit)
+[![Complete](https://img.shields.io/badge/✅_Complete-28a745?style=flat-square)](https://github.com/kaedmacabanti20/firebase-launchkit)
 
 <br>
 
